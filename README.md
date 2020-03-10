@@ -10,7 +10,7 @@ Facial key-points detection project (called also facial landmarks) is a system t
 
 
 <p align="center">
- <img  width="350" height="350" src="https://github.com/anasbadawy/Face-Detection/blob/master/testResult.png">
+ <img  width="550" height="350" src="https://github.com/anasbadawy/Face-Detection/blob/master/testResult.png">
 </p>
 
 
@@ -52,7 +52,7 @@ It’s including CSV file that has the 68 points as (x,y). so it’s 136 value a
 
 
 <p align="center">
- <img  width="350" height="350" src="https://github.com/anasbadawy/Face-Detection/blob/master/testResult.png">
+ <img  width="650" height="350" src="https://github.com/anasbadawy/Face-Detection/blob/master/testResult.png">
 </p>
 
 
