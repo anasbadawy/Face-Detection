@@ -14,7 +14,7 @@ face detector based on OpenCV and deep learning using opencv's Caffe model. This
 <p align="center">
  <img  width="700" height="350" src="https://github.com/anasbadawy/Face-Detection/blob/master/testResult.png">
 </p>
-****An image with my friends in a friend's wedding****
+***An image with my friends in a friend's wedding***
 
 
 ## References:
