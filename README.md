@@ -5,7 +5,7 @@
 face detector based on OpenCV and deep learning using opencv's Caffe model. This face detector is based on (SSD) the Single Shot Detector framework with a backbone of ResNet base network.
 
 
-
+**An image with my friends in a friend's wedding :)**
 <p align="center">
  <img  width="700" height="350" src="https://github.com/anasbadawy/Face-Detection/blob/master/testResult.png">
 </p>
